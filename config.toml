@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Awesome Lighting Inc."
+theme = "borboshop"
+#theme = "hugo-shopping-product-catalogue-simple"
+#themesDir = "../.."
+[Params]
+description = ""
